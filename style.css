@@ -1,0 +1,48 @@
+body {
+	background-color:DimGray;
+	color:white;
+	text-align:center;
+	font-family:courier new;
+}
+
+h1 {
+	font-family:papyrus;
+}
+
+address {
+	text-align:left;
+	font-family:times new roman
+}
+
+#home_button {
+	background-color:SlateGray;
+	color:white;
+}
+
+button.special_b {
+	background-color:SlateGray;
+	color:white;
+	text-align:left;
+	font-family:times new roman;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: gray;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: pink;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
